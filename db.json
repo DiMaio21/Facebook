@@ -1,4 +1,4 @@
-{
+
 {
   "POST": [
     {
@@ -6,105 +6,51 @@
       "like": "12",
       "autore": "Piero Plantone",
       "data": 1976,
-      "commento": "Motown"
+      "commento": "ciao!"
     },
     {
       "id": 2,
       "like": "22",
       "autore": "Jawad Falcione",
       "data": 1959,
-      "commento": "Columbia"      
+      "commento": "love it"      
     },
     {
       "id": 3,
       "like": "31",
       "autore": "Franchesco Zhou",
       "data": 1983,
-      "commento": "A&M"      
+      "commento": "cool"      
     },
     {
       "id": 4,
       "like": "4",
-      "autore": "Micheal Urzi",
+      "autore": "Franchesco ZhouFranchesco Zhou",
       "data": 1955,
-      "commento": "Sony Classical"      
+      "commento": "drip *fire emoji*"      
     }    
   ],
-  "autores": [
+  "commento": [
     {
       "id": 1,
-      "name": "Stevie Wonder",
+      "name": "Piero Plantone",
       "birthdate": "13/05/1950"
     },
     {
       "id": 2,
-      "name": "Miles Davis",
+      "name": "Jawad Falcione",
       "birthdate": "26/05/26"
     },
     {
       "id": 3,
-      "name": "Sting",
+      "name": "Franchesco Zhou",
       "birthdate": "02/10/1951"
     },
     {
       "id": 4,
-      "name": "Glenn Gould",
+      "name": "Franchesco Zhou",
       "birthdate": "25/09/1932"
     } 
   ],
-  "companies": [
-    {
-      "id": 1,
-      "name": "Motown"
-    },
-    {
-      "id": 2,
-      "name": "Columbia"
-    },
-    {
-      "id": 3,
-      "name": "A&M"
-    },
-    {
-      "id": 4,
-      "name": "Sony Classical"
-    }
-  ]
-}
-      "birthdate": "13/05/1950"
-    },
-    {
-      "id": 2,
-      "name": "Miles Davis",
-      "birthdate": "26/05/26"
-    },
-    {
-      "id": 3,
-      "name": "Sting",
-      "birthdate": "02/10/1951"
-    },
-    {
-      "id": 4,
-      "name": "Glenn Gould",
-      "birthdate": "25/09/1932"
-    } 
-  ],
-  "companies": [
-    {
-      "id": 1,
-      "name": "Motown"
-    },
-    {
-      "id": 2,
-      "name": "Columbia"
-    },
-    {
-      "id": 3,
-      "name": "A&M"
-    },
-    {
-      "id": 4,
-      "name": "Sony Classical"
-    }
-  ]
-}
+ 
+  
